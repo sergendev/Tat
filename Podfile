@@ -1,0 +1,10 @@
+platform :ios, '9.1'
+
+target 'GetStartedSwift' do
+
+  # Pods for GetStartedSwift
+
+  pod 'MyScriptInteractiveInk-UIReferenceImplementation', :path => '../..'
+  pod 'ScrollableGraphView'
+
+end
